@@ -1,1 +1,1 @@
-https://github.com/mercenaries.ai/omni-core-llms.git
+https://github.com/omnitool-ai/omni-core-llms.git
