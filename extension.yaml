@@ -1,0 +1,9 @@
+title: LLMs core support
+version: 0.0.2
+description: An extension to provide support for LLMs through the Universal Query LLM block
+author: Emmanuel Lusinchi
+origin: https://github.com/manu-sapiens/omni-core-llms.git
+client:
+  addToWorkbench: false
+supports:
+  blocks:v2
