@@ -1,7 +1,7 @@
 title: LLMs core support
 version: 0.0.2
 description: An extension to provide support for LLMs through the Universal Query LLM block
-author: Emmanuel Lusinchi
+author: Omnitool.ai team
 origin: https://github.com/omnitool-ai/omni-core-llms.git
 client:
   addToWorkbench: false
